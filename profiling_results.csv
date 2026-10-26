@@ -1,0 +1,5 @@
+context_setting,actual_prompt_tokens,ttft_seconds,average_token_latency_seconds,system_ram_used_before_gb,system_ram_used_after_gb
+1024,847,49.655,0.2123,7.13,7.16
+2048,1667,82.007,0.2071,7.16,7.18
+4096,3307,121.124,0.2581,7.18,7.17
+8192,6583,279.21,0.3684,7.17,6.78
